@@ -17,6 +17,7 @@ public class Jenkins {
         // TODO code application logic here
         System.out.println("Hello");
         System.out.println("I am testing my Jenkins");
+        System.out.println("Push my code");
     }
     
 }
